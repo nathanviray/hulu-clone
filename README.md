@@ -1,2 +1,2 @@
 # Hulu Webpage Clone (HTML, CSS, Javascript)
-A Hulu webpage clone
+This is a Hulu home screen clone completed using HTML, CSS, and Javascript.
